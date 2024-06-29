@@ -12,3 +12,6 @@ Giao diện Admin
 ![image](https://github.com/vuanhtu2k3/Job_Portuall/assets/116624441/46feab64-a442-476a-990d-5176d4b41b0f)
 ![image](https://github.com/vuanhtu2k3/Job_Portuall/assets/116624441/4866e4ff-b9e5-4e16-bd22-7fdf03f93db7)
 ![image](https://github.com/vuanhtu2k3/Job_Portuall/assets/116624441/392e3a91-e657-41f4-8fe8-b979594f781e)
+
+
+ Link video Demo Project: https://youtu.be/hDcXAV6JR10
